@@ -1,0 +1,1 @@
+module.exports = { /* Tailwind config here */ };
